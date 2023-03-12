@@ -1,0 +1,31 @@
+{
+  "app_name": "تطبيق المهام",
+  "login_title": "أهلا بك...",
+  "login_sub_title": "أدخل البريد و كلمة المرور",
+  "email": "البريد",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "email_error": "أدخل البريد",
+  "password_error": "أدخل كلمة المرور",
+  "error_data": "أدخل البيانات المطلوبة",
+  "home": "الرئيسية",
+  "confirm_logout": "تأكيد تسجيل خروج",
+  "sure": "هل أنت متأكد؟",
+  "yes": "نعم",
+  "no": "لا",
+  "change_language": "تغيير اللغة",
+  "select": "اختر لغة مناسبة",
+  "register": "إنشاء حساب",
+  "register_title": "إنشاء حساب جديد...",
+  "register_sub_title": "أدخل بيانات الحساب الجديد",
+  "no_account": "ليس لديك حساب؟",
+  "create_now": "أنشئ الآن",
+  "create_note": "إنشاء مذكرة",
+  "update_note": "تعديل مذكرة",
+  "title": "العنوان",
+  "info": "الوصف",
+  "save": "حفظ",
+  "no_notes": "لا يوجد ملاحظات"
+
+
+}
